@@ -1,1 +1,1 @@
-# mall-github.io
+# mall.github.io
